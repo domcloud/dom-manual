@@ -1,9 +1,8 @@
 remote_theme: pmarsceill/just-the-docs
 markdown: kramdown
-title: CRM-Toolkit
-description: Battery-Included CodeIgniter, React, Material-UI Template
-logo: images/splash.png
-baseurl: /crm-toolkit/
+title: Panduan DOM Cloud
+description: DOM Cloud Hosting Solution Indonesia
+baseurl: /
 defaults:
   -
     scope:
