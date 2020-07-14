@@ -32,15 +32,25 @@ Banyak hal yang anda bisa isi dengan hosting aktif tersebut. Diantaranya:
 
 1. Wordpress, untuk [blogging](wordpress.md) maupun [jual beli](woocommerce.md).
 2. Website statis, untuk profil diri ataupun lembaga.
-3. Website dinamis berbasis PHP, untuk merancang sistem online.
+3. Website dinamis berbasis aplikasi, untuk merancang sistem online.
 
-Didalam hosting website dikendalikan oleh [Apache Server](apache.md).
+Didalam hosting website dikendalikan oleh [Apache Server](apache.md). Apache server dapat menjalankan program PHP secara default, namun anda juga dapat menambahkan program lain seperti Python, Ruby, dan Node.JS melalui [Phusion Passenger](apache.md#phusion-passenger).
+
+## Portal Hosting
+
+![](https://www.virtualmin.com/images/carousel-screenshots/virtual-server-options.png)
+
+DOM Cloud menggunakan Virtualmin sebagai basis portal hosting. 
+
+### Bagaimana Cara Mengakses Portal Hosting?
+
+Anda bisa mengaksesnya dengan cara [memilih hosting aktif](https://portal.dom.my.id/user/hosting) anda, lalu **Buka Portal Webmin**.
 
 ### Bagaimana Cara Mengisi Hosting?
 
 Anda bisa mengisi hosting melalui portal, berikut caranya:
 
-1. Pilih hosting aktif anda, lalu **Buka Portal Webmin**.
+1. Buka Portal Webmin.
 2. Setelah anda masuk ke portal webmin, buka tab **File Manager**
 3. Navigasi ke folder `public_html`, di folder tersebut anda dapat mengisi hosting.
 
@@ -56,7 +66,7 @@ Anda juga dapat menggunggah file hosting melalui [Aplikasi FTP](ftp.md).
 
 Dengan paket Free (gratis), anda dapat mengisi tempat dalam hosting hingga **150 MB**. Ada pula opsi yang berbayar yang menambah kapasitas storage menjadi **500 MB**, **1.5 GB** dan **5 GB**.
 
-Kapasitas Hosting yang dihitung tidak hanya 
+Kapasitas Hosting yang dihitung termasuk berkas / file, database dan data server lainnya.
 
 ### Apa itu Kapasitas Bandwidth?
 

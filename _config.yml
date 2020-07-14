@@ -3,6 +3,7 @@ markdown: kramdown
 title: Panduan DOM Cloud
 description: DOM Cloud Hosting Solution Indonesia
 baseurl: /
+url: https://dok.dom.my.id
 defaults:
   -
     scope:
