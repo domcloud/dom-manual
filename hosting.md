@@ -7,26 +7,28 @@ nav_order: 2
 
 ### Apa itu Hosting?
 
-Hosting adalah sarana komputer yang dibuat untuk melayani internet, seperti website dan email. Dengan membeli hosting berarti anda menyewa komputer tersebut untuk keperluan layanan internet anda, seperti memasang website untuk blogging atau jual beli online.
+Hosting adalah sarana komputer yang dibuat untuk melayani internet. Dengan membeli hosting berarti anda menyewa komputer tersebut untuk keperluan layanan internet anda (berikutnya kita sebut sebagai **server**). Server digunakan untuk memasang konten dan berbisnis di internet.
+
+![](https://themezee.com/wp-content/uploads/2011/05/all-themes-900x600.png)
 
 ### Bagaimana Cara Hosting Bekerja?
 
-Saat anda menjelajahi website seperti `tokoku.co.id`, komputer akan menerjemahkannya menjadi sebuah alamat IP Address yang mempunyai format `xxx.xxx.xxx.xxx`; penerjemahan ini dibantu oleh [DNS](domain.md) yang didaftarkan oleh masing-masing domain. Setelah IP Address ditemukan komputer akan mengirim data request HTTP kepada server yang menempati alamat IP tersebut untuk diproses dan membalas request dalam bentuk HTML yang bisa ditampilkan oleh browser.
+Tidak sembarang komputer dapat dipakai server. Agar server dapat mengatasi banyaknya pengguna di internet, spesifikasi hardware dan koneksi internetnya harus cukup cepat.
 
-Pada umumnya, sebuah server yang mempunyai satu alamat IP bisa menghosting beberapa atau bahkan puluhan website dalam domain yang berbeda sekaligus. Hal ini disebut sebagai **Shared Hosting** dan banyak provider hosting menggunakan konsep ini agar biaya hosting dapat lebih murah dan terjangkau.  
+ Oleh karena itu, agar biaya operasionalnya tetap terjangkau, digunakan konsep **Shared Hosting**, yakni menggunakan satu komputer untuk tempat beberapa website sekaligus.  
 
 ### Bagaimana Cara Mendaftar Hosting?
 
 Anda dapat memulai hosting secara gratis melalui DOM Cloud.
 
 1. [Daftar Hosting Baru](https://portal.dom.my.id/user/hosting/create)
-2. Masukkan username hosting, ini akan menjadi basis domain anda.<br>Misal dengan username `tokoku`, maka anda mendapatkan domain `tokoku.dom.my.id`.
+2. Masukkan username hosting, ini akan menjadi dasar alamat domain anda.<br>Misal dengan username `tokoku`, maka anda mendapatkan domain `tokoku.dom.my.id`.
 3. Klik **Order Sekarang**
 4. Hosting anda akan langsung aktif.
 
-Setelah hosting anda aktif, anda bisa mengisi hosting tersebut sesuai kebutuhan.
+Setelah hosting anda aktif, anda bisa mengisi hosting tersebut dengan konten sesuai kebutuhan.
 
-### Hosting bisa di isi apa saja?
+### Apa saja konten hosting 
 
 Banyak hal yang anda bisa isi dengan hosting aktif tersebut. Diantaranya:
 
