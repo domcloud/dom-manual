@@ -1,9 +1,10 @@
 remote_theme: pmarsceill/just-the-docs
 markdown: kramdown
-title: Panduan DOM Cloud
-description: DOM Cloud Hosting Solution Indonesia
+title: Panduan Hosting
+description: DOM Cloud Hosting
 baseurl: /
 url: https://dok.dom.my.id
+google_analytics: "UA-109180894-3"
 defaults:
   -
     scope:
