@@ -1,5 +1,4 @@
 remote_theme: pmarsceill/just-the-docs
-theme: just-the-docs
 markdown: kramdown
 title: Panduan Hosting
 description: DOM Cloud Hosting
