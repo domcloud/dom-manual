@@ -1,12 +1,11 @@
 ---
-title: Kapasitas Hosting
+title: Batasan Kapasitas
 nav_order: 3
 layout: default
 parent: Hosting
 ---
 
-# Kapasitas Hosting
-
+# Batasan Kapasitas Hosting
 
 ### Berapa Kapasitas Hosting yang tersedia?
 

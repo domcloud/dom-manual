@@ -1,12 +1,12 @@
 ---
-title: Portal Hosting
+title: Akses Portal
 nav_order: 2
 layout: default
 parent: Hosting
 ---
 
 
-# Portal Hosting
+# Akses Portal Hosting
 
 ![](https://www.virtualmin.com/images/carousel-screenshots/virtual-server-options.png)
 
