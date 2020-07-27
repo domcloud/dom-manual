@@ -30,7 +30,7 @@ Anda dapat memulai hosting secara gratis melalui DOM Cloud.
 3. Klik **Order Sekarang**
 4. Hosting anda akan langsung aktif.
 
-Apabila anda ingin menggunakan domain akhiran selain *dom.my.id*, anda perlu [membeli hosting sekaligus domainnya](/).
+Apabila anda ingin menggunakan domain akhiran selain *dom.my.id*, anda perlu [membeli hosting sekaligus domainnya](/domain).
 
 Setelah hosting anda aktif, anda bisa mengisi hosting tersebut dengan konten sesuai kebutuhan.
 
@@ -38,8 +38,8 @@ Setelah hosting anda aktif, anda bisa mengisi hosting tersebut dengan konten ses
 
 Anda bisa memulai konten dengan pilihan template yang tersedia. Beberapa template tersebut ialah:
 
-+ [WordPress atau WooCommerce](wordpress.md), apabila anda ingin memulai hosting untuk blogging atau jual beli tanpa harus mengerti bahasa pemrograman.
-+ [PHP Framework, CodeIgniter atau Laravel](framework.md), apabila anda ingin membuat sistem dinamis dalam website.
-+ [Aplikasi Python, Ruby, atau Node.JS](passenger.md), apabila anda mempunyai sistem yang membutuhkan aplikasi diluar bahasa PHP.
++ [WordPress atau WooCommerce](/apache/wordpress.html), apabila anda ingin memulai hosting untuk blogging atau jual beli tanpa harus mengerti bahasa pemrograman.
++ [PHP Framework, CodeIgniter atau Laravel](/apache/framework.html), apabila anda ingin membuat sistem dinamis dalam website.
++ [Aplikasi Python, Ruby, atau Node.JS](/apache/passenger.html), apabila anda mempunyai sistem yang membutuhkan aplikasi diluar bahasa PHP.
 
 Anda tidak harus memulai dari template. Anda bisa mengatur hosting sendiri mulai dari kosong. Kami mempunyai [banyak peralatan](/apache) untuk menunjang anda mengelola hosting setiap waktu.
