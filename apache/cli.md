@@ -1,6 +1,6 @@
 ---
-title: PHP Engine
-nav_order: 4
+title: SSH/CLI Tools
+nav_order: 8
 layout: default
 parent: Apache
 ---
