@@ -1,6 +1,6 @@
 ---
 title: Laporan Trafik
-nav_order: 8
+nav_order: 9
 layout: default
 parent: Hosting
 ---
