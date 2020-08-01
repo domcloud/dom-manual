@@ -5,8 +5,6 @@ layout: default
 parent: Hosting
 ---
 
-# HTTPS
-
 ## Bagaimana HTTPS Berbeda dari HTTP
 
 HTTPS adalah varian protokol yang aman (**S**ecure) daripada HTTP. HTTPS ada karena HTTP mempunyai masalah tersendiri, yakni data selama transmisi dari satu server ke server lain hingga sampai di browser dapat *dilihat* bahkan *dimodifikasi* oleh siapapun. Ini merupakan masalah privasi dan keamanan data yang serius bagi pengguna website anda. 
@@ -26,7 +24,7 @@ Dalam Portal Hosting anda dapat mengaktifkan HTTPS paling mudah dengan sertifika
 ![](/images/letsencrypt.png)
 3. Jika ada tulisan *Certificate successfully requested!* berarti operasi tersebut berhasil dan website HTTPS anda sudah aktif secara langsung.
 
-Sertifikat dari Let's Encrypt hanya bertahan sampai 90 hari, namun Portal akan meminta ulang (renewal) sertifikat tersebut setiap 2 bulan sehingga anda tidak perlu aktivasi lagi kecuali anda melakukan perubahan signifikan pada website anda. 
+Sertifikat dari Let's Encrypt hanya bertahan sampai 90 hari, namun Portal akan meminta ulang (renewal) sertifikat tersebut setiap 2 bulan secara otomatis sehingga anda tidak perlu request lagi kecuali anda melakukan perubahan signifikan pada website anda. 
 
 ## HTTPS Redirect
 
