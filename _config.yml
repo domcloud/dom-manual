@@ -1,7 +1,6 @@
 remote_theme: pmarsceill/just-the-docs
-theme: just-the-docs
 markdown: kramdown
 title: Panduan Hosting
 description: DOM Cloud Hosting
-url: https://dok.dom.my.id
+url: https://panduan.domcloud.id
 google_analytics: "UA-109180894-3"
