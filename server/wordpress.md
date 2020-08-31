@@ -2,7 +2,7 @@
 title: WordPress CMS
 nav_order: 1
 layout: default
-parent: Apache
+parent: Server
 ---
 
 # WordPress CMS
@@ -11,7 +11,7 @@ parent: Apache
 
 WordPress adalah sebuah langkah yang tepat untuk memulai hosting apabila anda belum punya pengalaman dengan pemrograman atau hanya ingin website fungsional dengan cepat.
 
-Memulai server WordPress cukuplah mudah, anda hanya perlu membuat hosting baru lalu memilih template WordPress (atau WooCommerce). Perbedaan yang mencolok antara dua template tersebut:
+Memulai server WordPress cukuplah mudah, anda hanya perlu [membuat hosting baru](/hosting/basic.html#bagaimana-cara-mendaftar-hosting) lalu memilih template WordPress (atau WooCommerce). Perbedaan yang mencolok antara dua template tersebut:
 
 + *WordPress* adalah template WordPress stok atau kosongan. Digunakan untuk website profil atau platform blogging dan membuat konten.
 + *WooCommerce* adalah template WordPress dengan plugin WooCommerce terinstall. Digunakan untuk anda yang ingin memulai bisnis jualan produk atau jasa digital di internet.

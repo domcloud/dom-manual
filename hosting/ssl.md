@@ -7,7 +7,7 @@ parent: Hosting
 
 ## Bagaimana HTTPS Berbeda dari HTTP
 
-HTTPS adalah varian protokol yang aman (**S**ecure) daripada HTTP. HTTPS ada karena HTTP mempunyai masalah tersendiri, yakni data selama transmisi dari satu server ke server lain hingga sampai di browser dapat *dilihat* bahkan *dimodifikasi* oleh siapapun. Ini merupakan masalah privasi dan keamanan data yang serius bagi pengguna website anda. 
+HTTPS adalah varian protokol yang aman (**S**ecure) daripada HTTP. HTTPS ada karena HTTP mempunyai masalah tersendiri, yakni data selama transmisi dari satu server ke server lain hingga sampai di browser dapat *dilihat* bahkan *dimodifikasi* oleh siapapun. Ini merupakan masalah privasi dan keamanan data yang serius bagi pengguna website anda.
 
 Agar data selama transmisi aman, website anda dapat menggunakan protokol HTTPS. HTTPS mengenkripsi data selama transmisi, sehingga hanya anda dan server website yang dapat membukanya (dengan kata lain, selain kedua pihak, tidak ada yang dapat melihat data didalamnya). Agar memastikan bahwa data tersebut tidak dimodifikasi, HTTPS mensyaratkan bahwa komunikasi di validasi melalui *sertifikat digital* yang disebut sebagai **Sertifikat SSL**.
 
@@ -19,16 +19,16 @@ Jika anda tidak menggunakan Sertifikat SSL *melalui Agen SSL* tersebut, atau ser
 
 Dalam Portal Hosting anda dapat mengaktifkan HTTPS paling mudah dengan sertifikat SSL Let's Encrypt yang gratis dan otomatis:
 
-1. Pertama, buka pengaturan fitur hosting lalu nyalakan **Apache SSL Website**.
-2. Kedua, buka menu Server Configuration > SSL Certificate, lalu pergi ke tab **Let's Encrypt** lalu klik **Request Certificate** 
+1. Pertama, buka [pengaturan fitur hosting](/hosting/features.html) lalu nyalakan **Apache SSL Website**.
+2. Kedua, [buka menu](/hosting/portal.html#apa-saja-menu-tersedia-di-virtualmin) Server Configuration > SSL Certificate, lalu pergi ke tab **Let's Encrypt** lalu klik **Request Certificate**
 ![](/images/letsencrypt.png)
 3. Jika ada tulisan *Certificate successfully requested!* berarti operasi tersebut berhasil dan website HTTPS anda sudah aktif secara langsung.
 
-Sertifikat dari Let's Encrypt hanya bertahan sampai 90 hari, namun Portal akan meminta ulang (renewal) sertifikat tersebut setiap 2 bulan secara otomatis sehingga anda tidak perlu request lagi kecuali anda melakukan perubahan signifikan pada website anda. 
+Sertifikat dari Let's Encrypt hanya bertahan sampai 90 hari, namun Portal akan meminta ulang (renewal) sertifikat tersebut setiap 2 bulan secara otomatis sehingga anda tidak perlu request lagi kecuali anda melakukan perubahan signifikan pada website anda.
 
 ## HTTPS Redirect
 
-Jika anda ingin mengalihkan semua akses HTTP menjadi HTTPS, anda dapat mengaktifkannya melalui menu Server Configuration > Website Options, lalu pilih opsi *Redirect all requests to SSL site?* ke **Yes**.
+Jika anda ingin mengalihkan semua akses HTTP menjadi HTTPS, anda dapat mengaktifkannya [melalui menu](/hosting/portal.html#apa-saja-menu-tersedia-di-virtualmin) Server Configuration > Website Options, lalu pilih opsi *Redirect all requests to SSL site?* ke **Yes**.
 
 Peralihan ini dilakukan menggunakan modifikasi pada pengaturan Apache pada server.
 
@@ -63,4 +63,4 @@ Anda dapat memperbarui sertifikat SSL anda secara manual.
 
 ### Muncul Tulisan Not Secure / Tidak Aman meski SSL sudah valid
 
-Beberapa elemen dari halaman tersebut mungkin memuat konten dari HTTP (bisa saja script, stylesheet, gambar atau media lain). Istilah masalah disini ialah *Mixed Content*. Anda harus memastikan semua URL tidak ada konten yang dimulai dengan kata `http://` (dengan cara melihat sumber HTML dari view-source: atau Ctrl+U). 
+Beberapa elemen dari halaman tersebut mungkin memuat konten dari HTTP (bisa saja script, stylesheet, gambar atau media lain). Istilah masalah disini ialah *Mixed Content*. Anda harus memastikan semua URL tidak ada konten yang dimulai dengan kata `http://` (dengan cara melihat sumber HTML dari view-source: atau Ctrl+U).

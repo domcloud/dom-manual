@@ -2,7 +2,7 @@
 title: PHP Engine
 nav_order: 4
 layout: default
-parent: Apache
+parent: Server
 ---
 
 ### Versi PHP dan Ekstensi yang didukung
@@ -28,13 +28,13 @@ Pemilihan versi PHP yang disediakan adalah up-to-date dengan versi PHP yang saat
 
 ### PHP CLI
 
-Melalui SSH, anda dapat memanggil script dengan `php` (versi 7.2). 
+Melalui SSH, anda dapat memanggil script dengan `php` (versi 7.2).
 
 Untuk versi PHP CLI lain, anda dapat menggunakan `php73` dan `php74`.
 
 Composer juga tersedia, anda dapat memanggilnya dengan `composer` untuk menginstall komponen.
 
-Jangan mengaktifkan development server yang membuka port localhost. Namun atur agar server root menyesuaikan ke lokasi PHP entry point (`index.php`) yang ada dalam framework. 
+Jangan mengaktifkan development server yang membuka port localhost. Namun atur agar server root menyesuaikan ke lokasi PHP entry point (`index.php`) yang ada dalam framework.
 
 ### PHP Framework
 
