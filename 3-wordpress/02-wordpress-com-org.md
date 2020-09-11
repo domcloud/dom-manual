@@ -1,3 +1,15 @@
+---
+title: WordPress com vs org
+parent: Website WordPress
+nav_order: 2
+layout: video
+caption: Apa Perbedaan WordPress.com dan WordPress.org?
+embed: CE2Hx0YPYuw
+credit: ferry mulyanto
+creditUrl: UCWQD3z7ESZgXzvNOinab_7A
+nextUrl: wordpress-jetpack.html
+permalink: wordpress-com-org.html
+---
 
 
 Perbandingan antara DOM Cloud dengan WordPress.com, untuk layanan gratisnya, ialah sebagai berikut:
@@ -8,7 +20,7 @@ Perbandingan antara DOM Cloud dengan WordPress.com, untuk layanan gratisnya, ial
 | Kapasitas Disk | 200 MB       | 3 GB           |
 | Bandwidth      | 6 GB / tahun | Unlimited      |
 | Domain Gratis  | .dom.my.id   | .wordpress.com |
-| HTTPS / SSL    | Ya           | Ya             |
+| HTTPS / SSL    | Manual       | Otomatis       |
 | Tema           | Unlimited    | Terbatas       |
 | Plugin         | Unlimited    | Tidak Ada      |
 | Monetisasi     | Unlimited    | Tidak Ada      |

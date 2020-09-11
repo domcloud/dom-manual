@@ -22,13 +22,13 @@ Apa sih itu domain? Bagaimana cara mengelola domain? Jangan panik, mari kita kup
 
 WordPress adalah Platform Blogging yang paling populer didunia. Buat anda yang ingin membuat website namun tidak mempunyai skill pemrograman, WordPress adalah Jawabannya. Anda harus mencoba!
 
+### [Mengelola Server](server.html)
+
+Apa saja sih fitur hosting yang ada di DOM Cloud? Sebelum kalian beranjak ke pengelolaan website dinamis, ini merupakan tontonan yang wajib kamu ketahui!
+
 ### [Website Dinamis](dinamis.html)
 
-Bagaimana sih cara kerja website dinamis? Bagian ini akan mengcover konsep dasar yang anda butuhkan!
-
-### [Website Aplikasi](aplikasi.html)
-
-DOM Cloud bisa menjalakan aplikasi Python, Ruby, Node.JS. Kereeeen, tapi bisa dibuat apa? Ayo kita simak!
+Bagaimana sih cara kerja website dinamis? Dari menjalankan program, memanipulasi database, hingga integrasi email, bagian ini akan menambah pengetahuan anda memanfaatkan hosting ke next level. Peringatan: Hanya untuk programmer!
 
 ### [Referensi Teknis Lain](referensi.html)
 
