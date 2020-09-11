@@ -5,3 +5,5 @@ layout: default
 has_children: true
 permalink: server.html
 ---
+
+Gunakan caption Auto-Translate > Indonesia.
