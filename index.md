@@ -24,11 +24,7 @@ WordPress adalah Platform Blogging yang paling populer didunia. Buat anda yang i
 
 ### [Mengelola Server](server.html)
 
-Apa saja sih fitur hosting yang ada di DOM Cloud? Sebelum kalian beranjak ke pengelolaan website dinamis, ini merupakan tontonan yang wajib kamu ketahui!
-
-### [Website Dinamis](dinamis.html)
-
-Bagaimana sih cara kerja website dinamis? Dari menjalankan program, memanipulasi database, hingga integrasi email, bagian ini akan menambah pengetahuan anda memanfaatkan hosting ke next level. Peringatan: Hanya untuk programmer!
+Apa saja sih fitur hosting yang ada di DOM Cloud? Dari mengelola portal, hingga integrasi CDN dan email, bagian ini akan menambah pengetahuan anda memanfaatkan hosting ke level berikutnya.
 
 ### [Referensi Teknis Lain](referensi.html)
 

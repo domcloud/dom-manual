@@ -1,7 +1,7 @@
 ---
 title: Email Domain (Bisnis)
 parent: Mengelola Domain
-nav_order: 2
+nav_order: 4
 layout: video
 caption: Bagaimana Cara Membuat Email Bisnis?
 embed: 72EMm4O_MNw

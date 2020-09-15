@@ -11,6 +11,6 @@ nextUrl: cloud-shared-hosting.html
 permalink: hosting-dan-domain.html
 ---
 
-Hosting adalah Rumah, Domain adalah Alamatnya. Dalam DOM Cloud kami menyediakan dua hal tersebut untuk membantu anda membangun website.
+Hosting adalah Rumah, Domain adalah Alamatnya. Dalam DOM Cloud kami menyediakan dua hal tersebut untuk membantu anda membangun website. Anda dapat melihat [daftar paket hosting](//domcloud.id/price.html) dan [daftar jenis domain](//domcloud.id/domain.html) yang disediakan.
 
 Apakah DOM Cloud mempunyai beberapa keunggulan yang seperti ditayangkan dalam video? Ya, DOM Cloud merupakan layanan hosting yang berdiri diatas layanan insfrastruktur Microsoft Azure, yang sudah tidak diragukan lagi kecepatannya, selain itu kami mempunyai banyak fitur tambahan lain yang kami rangkum dalam beberapa video berikutnya. Ayo simak terus!

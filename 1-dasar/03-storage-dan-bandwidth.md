@@ -14,3 +14,5 @@ permalink: storage-dan-bandwidth.html
 Storage adalah batas penyimpanan yang dihitung sebagai jumlah kapasitas file, database, dan data server lainnya. Sedangkan Bandwidth adalah batasan data yang dikirim dan diterima dalam tempo waktu tertentu.
 
 Dalam DOM Cloud, perbedaan yang mencolok dalam perbedaan harganya ialah penggunaan storage dan bandwidth website anda nantinya. Semakin tinggi penggunaannya, maka tentu biaya yang dikenakan juga tinggi.
+
+Bagaimana menghitung kebutuhan storage dan bandwidth yang cukup? Anda dapat mencari lebih tau hal tersebut [di halaman ini](fair-usage.html). Anda juga dapat menghemat penggunaan bandwidth dengan cara [menggunakan CDN](optimasi-cdn.html).

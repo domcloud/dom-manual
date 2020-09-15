@@ -15,6 +15,6 @@ Ada beberapa layanan hosting yang memang memberikan secara percuma, namun sangat
 
 Namun, paket hosting gratis dalam DOM Cloud berbeda. Semua penyediaan fitur adalah sama disetiap rentang harga paket, yang membedakan hanyalah jumlah storage dan bandwidth yang anda gunakan.
 
-Sistem paket hosting dalam DOM Cloud dibuat demikian sehingga anda hanya perlu mengeluarkan budget sesuai dengan penggunaan website anda nantinya.
+Sistem paket hosting dalam DOM Cloud dibuat demikian sehingga anda hanya perlu mengeluarkan budget sesuai dengan penggunaan website anda nantinya. Hampir semua [fitur dalam hosting](fitur-hosting.md) adalah sama disetiap rentang harga paket.
 
 
