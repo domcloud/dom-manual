@@ -11,6 +11,4 @@ nextUrl: domain-name-server.html
 permalink: domain-indonesia.html
 ---
 
-Memilih nama domain dan ekstensi yang tepat merupakan pertimbangan penting sebelum membangun website. DOM Cloud mempunyai beberapa pilihan ekstensi gLTD dan ccLTD indonesia yang bisa anda [lihat rinciannya disini](//domcloud.id/domain). Sama seperti hosting, sifat pembelian domain adalah sewa, anda harus membayar per tahun.
-
-Jika anda tidak ingin membeli domain, DOM Cloud juga ekstensi domain gratis (.dom.my.id) yang bisa anda pakai bersamaan dengan paket hosting gratis maupun premium.
+Domain ccLTD milik Indonesia adalah domain yang berakhiran .id. Ada banyak pembagian domain Indonesia yang anda dapat [lihat rinciannya disini](syarat-domain.html). Ingat bahwa tidak seperti domain Global, kebanyakan domain Indonesia membutuhkan informasi pemilik tambahannya, seperti KTP dan surat pendirian lainnya.

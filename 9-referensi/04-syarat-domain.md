@@ -1,5 +1,5 @@
 ---
-title: Install SSL
+title: Syarat Domain Indonesia
 parent: Referensi
 nav_order: 4
 layout: default
@@ -8,7 +8,7 @@ permalink: syarat-domain.html
 
 ### Pembagian Nama Domain Indonesia
 
-TLD seperti `.com`, `.xyz`, `.id` tidak mempunyai tujuan khusus, sehingga dapat digunakan untuk berbagai keperluan.
+Global TLD seperti `.com`, `.xyz`, `.id` tidak mempunyai tujuan khusus, sehingga dapat digunakan untuk berbagai keperluan.
 
 Untuk TLD dibawah domain Indonesia, dibagi berdasarkan tujuan domain tersebut digunakan, yakni:
 
@@ -38,14 +38,17 @@ Beberapa domain, khususnya domain Indonesia, membutuhkan dokumen tambahan sebelu
 <tbody>
   <tr>
     <th>.xyz</th>
-    <td rowspan="3"></td>
-    <td rowspan="3">Tidak ada syarat dokumen untuk Top Level Domain</td>
+    <td rowspan="4"></td>
+    <td rowspan="4">Tidak ada syarat dokumen tambahan</td>
   </tr>
   <tr>
     <th>.com</th>
   </tr>
   <tr>
     <th>.id</th>
+  </tr>
+  <tr>
+    <th>.my.id</th>
   </tr>
   <tr>
     <th rowspan="3">.co.id</th>
@@ -111,11 +114,6 @@ Beberapa domain, khususnya domain Indonesia, membutuhkan dokumen tambahan sebelu
   </tr>
   <tr>
     <th>.biz.id</th>
-    <td>ID Card</td>
-    <td>KTP Republik Indonesia (WNI) atau Paspor (WNA)</td>
-  </tr>
-  <tr>
-    <th>.my.id</th>
     <td>ID Card</td>
     <td>KTP Republik Indonesia (WNI) atau Paspor (WNA)</td>
   </tr>

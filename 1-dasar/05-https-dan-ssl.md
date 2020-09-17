@@ -7,7 +7,7 @@ caption: Kenapa SSL itu Penting?
 embed: gAVV4VL2b7A
 credit: DomaiNesia
 creditUrl: UCzIqPmDnYIyVJlKwodIbPiw
-nextUrl: https-dan-ssl.html
+nextUrl: memilih-domain.html
 permalink: https-dan-ssl.html
 ---
 
