@@ -4,3 +4,16 @@ title: Panduan Hosting
 description: DOM Cloud Hosting
 url: https://panduan.domcloud.id
 google_analytics: "UA-109180894-3"
+collections:
+  id:
+    permalink: "/:collection/:path/"
+    output: true
+  en:
+    permalink: "/:collection/:path/"
+    output: true
+just_the_docs:
+  collections:
+    id:
+      name: Panduan
+    en:
+      name: Reference
