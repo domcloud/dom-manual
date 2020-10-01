@@ -7,7 +7,7 @@ permalink: id/media-hosting-alternatif.html
 ---
 
 
-## Media Hosting Alternatif
+# Media Hosting Alternatif
 
 Selain menggunakan DOM Cloud atau layanan shared hosting **(Platform-as-a-Service)** sejenis, ada alternatif lain tentang hosting website sesuai budget dan kebutuhan website anda.
 

@@ -3,7 +3,7 @@ title: Fitur Hosting
 parent: Referensi
 nav_order: 2
 layout: default
-permalink: id/fitur-hosting.html
+permalink: id/manage-fitur-hosting.html
 ---
 
 # Fitur Hosting

@@ -1,7 +1,7 @@
 ---
-title: WordPress CMS
+title: Panduan Template
 nav_order: 3
 layout: default
 has_children: true
-permalink: id/wordpress.html
+permalink: id/templates.html
 ---
